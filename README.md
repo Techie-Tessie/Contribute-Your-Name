@@ -95,7 +95,7 @@ Now submit the pull request.
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
 
 Celebrate⭐ your contribution and share it with your friends and followers .
-Suscribe our youtube channel for more amazing contents :- https://www.youtube.com/channel/UCGCR-PjumUZeuMc0zZOIZdA
+Suscribe our youtube channel for more amazing contents :- https://www.youtube.com/c/techietessie
 And dont forget to follow me on GitHub  :   https://github.com/Mohasin-Haque
 
 # Put your name here
